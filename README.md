@@ -48,6 +48,7 @@
 <br/>
 <br/>
 
+<!-- 
 ## Connect with me:
 <p align="left">
 
@@ -58,7 +59,8 @@
 <a href="https://www.leetcode.com/ak8634" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ak8634" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ak8634" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ak8634" height="30" width="40" /></a>
 
-</p>
+</p> 
+-->
 
 ## Views and Followers
 <a href="https://github.com/athreshkumar2/github-profile-views-counter">
